@@ -1,0 +1,17 @@
+AlarmId	LITERAL2
+
+TimeAlarms	KEYWORD2
+triggerOnce 	KEYWORD2
+alarmRepeat	KEYWORD2
+alarmOnce	KEYWORD2
+timerRepeat	KEYWORD2
+timerOnce	KEYWORD2
+enable	KEYWORD2
+disable	KEYWORD2
+free	KEYWORD2
+delay	KEYWORD2
+
+Alarm	KEYWORD1
+
+dtINVALID_ALARM_ID LITERAL1
+dtINVALID_TIME	LITERAL1
