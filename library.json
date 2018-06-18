@@ -1,0 +1,14 @@
+{
+	"name":"LibRTCAlarms",
+	"frameworks":"Arduino",
+	"keywords":"Time, alarm, LibRTC, LibRTCAlarms, schedule",
+	"description":"Schedule alarms to occur at specific times using the AdaFruit LibRTC library".
+	"url":"https://github.com/ahhhhbisto/LibRTCAlarms",
+	"authors":{
+		"name":"Alex Kisiel"
+	},
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/ahhhhbisto/LibRTCAlarms"
+	}
+}
